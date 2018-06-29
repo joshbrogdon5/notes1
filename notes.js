@@ -184,7 +184,32 @@ let toDestructure = {
   newObj.number //would return 10
 
 
-  //Questions:
-
-
   //Day 4:
+
+
+  //In html the <head> tag holds information but does not display it on the webpage, things like the meta-tags go in here:
+//   <!DOCTYPE html>
+//   <html lang = "en">
+//   <head>
+//     <meta charset="UTF-8">
+//     <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+//     <meta http-equiv"X-UA-Compatable" content="ie=edge">
+//     <link href='./filename.css' rel='stylesheet'
+//     <title>Document</title>
+//   </head>
+
+
+  //The <body> tag will contain information and it will be displayed on the webpage.
+  //it uses tags such as <div> (this one you use the most), <p> (for paragraphs), <h1> <h2> <h3> etc. for creating headers.
+  //<ol> and <ul> ordered lists and un-ordered lists, <li> list items (you can have many of these nested inside <ol> or <ul>).
+  //There are also image tags which need no closing tag: <img src=''> here you can either copy a url for an image here, or
+  //create a file path for an image saved on your computer.
+
+
+  //ALWAYS USE *{box-sizing} WHEN STYLING YOUR WEBSITE IN CSS. You will save yourself a lot of trouble.
+
+
+  //ALWAYS HAVE A RESET.CSS FILE, you can look it up on google and copy it onto your project.
+
+
+  //React components are always capitalized, that is how you can tell them apart from normal html in JSX.
