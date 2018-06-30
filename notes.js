@@ -207,9 +207,22 @@ let toDestructure = {
 
 
   //ALWAYS USE *{box-sizing} WHEN STYLING YOUR WEBSITE IN CSS. You will save yourself a lot of trouble.
-
+ 
 
   //ALWAYS HAVE A RESET.CSS FILE, you can look it up on google and copy it onto your project.
 
 
   //React components are always capitalized, that is how you can tell them apart from normal html in JSX.
+
+
+  //Day 5:
+
+
+  //React is a component based library and not a framework itself. If you change information in one component, it will
+  //not transfer into another component. React is used to build user interfaces. 
+
+
+  //Questions:
+  //What does parseInt do??
+  //
+
